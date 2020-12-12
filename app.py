@@ -59,4 +59,3 @@ Label(frame, text="Ingrese un archivo .csv", width=650, height=2, bg="#D6D6D6",
 Button(frame, text="Buscar Archivo", width="50", fg="black", font=("Verdana", 10),
        command=buscarArchivo).pack(pady=5)
 ventana.mainloop()
-
